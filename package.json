@@ -11,7 +11,7 @@
     "author": "",
     "license": "ISC",
     "dependencies": {
-        "aedes": "^0.40.1",
+        "aedes": "^0.42.1",
         "aedes-logging": "^2.0.1",
         "websocket-stream": "^5.5.2"
     },
